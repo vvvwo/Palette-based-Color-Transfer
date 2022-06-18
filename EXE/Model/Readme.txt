@@ -1,0 +1,1 @@
+Download deeplabv3.pt from https://share.weiyun.com/DauvsFUT into this place
