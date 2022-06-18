@@ -1,5 +1,7 @@
 Using start.bat to run the code
 
+Download required dll and model from https://share.weiyun.com/DauvsFUT
+
 Instances:
 Palette_ColorTransfer_P.exe R4 R1
 Palette_ColorTransfer_P.exe R4 R1 31 0.6 0.3
